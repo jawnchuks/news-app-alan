@@ -1,4 +1,4 @@
-# React API News And Vioce Enabled App
+# React API News And Voice Enabled App
 
 #### Powered By Alan AI Voice Assistant
 
