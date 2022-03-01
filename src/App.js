@@ -6,6 +6,8 @@ import wordsToNumbers from "words-to-numbers";
 import NewsCards from "./components/NewsCards/NewsCards";
 import useStyles from "./styles";
 
+// The main engine where everything works
+
 const alanKey =
   "65e58ae2bb64b699202d470199a18df02e956eca572e1d8b807a3e2338fdd0dc/stage";
 
